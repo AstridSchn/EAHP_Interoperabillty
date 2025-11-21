@@ -1,7 +1,6 @@
-Profile: SupplyRequestCustom
-Parent: SupplyRequest
+Resource: SupplyRequestCustom
 Id: SupplyRequestCustom
-Description: "Custom profile of SupplyRequest for EAHP IG"
+Description: "A record of a non-patient specific request for a medication, substance, device, certain types of biologically derived product, and nutrition product used in the healthcare setting."
 * ^meta.lastUpdated = "2023-03-26T15:21:02.749+11:00"
 * ^extension[0].url = "http://hl7.org/fhir/StructureDefinition/structuredefinition-category"
 * ^extension[=].valueString = "Clinical.Request &amp; Response"

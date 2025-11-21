@@ -1,5 +1,4 @@
-Profile: SupplyDeliveryCustom
-Parent: SupplyDelivery
+Resource: SupplyDeliveryCustom
 Id: SupplyDeliveryCustom
 Description: "Custom profile of SupplyDelivery for EAHP IG"
 * ^meta.lastUpdated = "2023-03-26T15:21:02.749+11:00"

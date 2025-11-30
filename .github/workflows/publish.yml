@@ -53,7 +53,7 @@ jobs:
           curl -L https://github.com/HL7/fhir-ig-publisher/releases/latest/download/publisher.jar -o input-cache/publisher.jar
 
       - name: Run IG Publisher
-        run: java -Xmx4g -jar input-cache/publisher.jar -ig .
+        run: java -Xmx4g -jar input-cache/publisher.jar -ig . -no-sushi
 
       - name: Overwrite index.html with redirect
         run: |

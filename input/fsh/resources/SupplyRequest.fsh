@@ -3,7 +3,7 @@ Title: "SupplyRequest EAHP Interoperability"
 Parent: SupplyRequest
 Description: "SupplyRequest profile for EAHP Interoperability SIG."
 
-* item[x] only Reference(Medication or InventoryItem)
+* item only Reference(Medication or InventoryItem)
 
 * identifier 1..1
 

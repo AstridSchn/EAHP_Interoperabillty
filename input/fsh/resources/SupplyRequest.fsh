@@ -3,7 +3,7 @@ Title: "SupplyRequest EAHP Interoperability"
 Parent: SupplyRequest
 Description: "SupplyRequest profile for EAHP Interoperability SIG."
 
-* item only CodeableReference(Reference(Medication or InventoryItem))
+* item only CodeableReference(Reference[Medication, InventoryItem])
 * item.^short = "Requested product must be a Medication or InventoryItem"
 * item.^definition = "The requested supply item, limited to references to Medication or InventoryItem resources."
 

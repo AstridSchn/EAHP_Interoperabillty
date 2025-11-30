@@ -39,6 +39,9 @@ jobs:
           ruby-version: '3.2'
           bundler-cache: true
       
+      - name: Install Jekyll Globally
+        run: gem install jekyll bundler
+      
       - name: Cache IG Publisher
         id: cache-publisher
         uses: actions/cache@v4

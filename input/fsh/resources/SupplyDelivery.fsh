@@ -7,5 +7,5 @@ Description: "SupplyDelivery profile for EAHP Interoperability SIG."
 * basedOn MS
 * suppliedItem 1..*
 * suppliedItem.item[x] only Reference(InventoryItem)
-* supplier MS //TODO should we extend it to a Device?
+* supplier MS //TODO should we extend supplier and reciever to a Device?
 * destination MS

@@ -3,7 +3,6 @@ Title: "InventoryItem EAHP Interoperability"
 Parent: InventoryItem
 Description: "InventoryItem profile for EAHP Interoperability SIG."
 
-* identifier 1..*
 * name MS
 * inventoryStatus MS
 * baseUnit MS

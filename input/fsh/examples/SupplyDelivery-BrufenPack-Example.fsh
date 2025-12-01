@@ -1,4 +1,4 @@
-Instance: SupplyDelivery-Brufen-Example
+Instance: SupplyDelivery-BrufenPack-Example
 InstanceOf: SupplyDelivery
 Title: "Example Supply Delivery for Brufen"
 Description: "SupplyDelivery example corresponding to the SupplyRequest for Brufen tablets."

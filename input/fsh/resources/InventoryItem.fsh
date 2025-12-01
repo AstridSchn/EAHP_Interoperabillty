@@ -8,6 +8,6 @@ Description: "InventoryItem profile for EAHP Interoperability SIG."
 * inventoryStatus MS
 * baseUnit MS
 * netContent MS
-* instnace 1..1
+* instance 1..1
 * inventoryStatus MS
 * productReference MS

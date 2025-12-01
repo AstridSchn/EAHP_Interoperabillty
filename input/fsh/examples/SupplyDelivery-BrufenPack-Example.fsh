@@ -1,7 +1,7 @@
 Instance: SupplyDelivery-BrufenPack-Example
 InstanceOf: SupplyDelivery
 Title: "Example Supply Delivery for Brufen"
-Description: "SupplyDelivery example corresponding to the SupplyRequest for Brufen tablets."
+Description: "SupplyDelivery example corresponding to the SupplyRequest for Brufen tablets. It contains two InventoryItem instances representing packs of Brufen 30x600mg tablets."
 
 * basedOn = Reference(SupplyRequest-Brufen-Example)
 * status = #completed

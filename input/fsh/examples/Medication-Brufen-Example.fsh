@@ -1,5 +1,5 @@
 // Medication Instance
-Instance: Medication-05099151015051 //Example with GTIN
+Instance: 05099151015051 //Example with GTIN
 InstanceOf: Medication
 Title: "Brufen 30x600mg Tablets"
 Description: "Medication resource representing Brufen tablets, 30 tablets of 600 mg each."

@@ -9,7 +9,6 @@ Description: "SupplyDelivery example corresponding to the SupplyRequest for Bruf
 * suppliedItem[0].quantity.value = 2
 * suppliedItem[0].quantity.system = "http://hl7.org/fhir/ValueSet/medication-form-codes"
 * suppliedItem[0].quantity.code = #421026006
-* suppliedItem[0].quantity.unit = "Oral tablet"
 
 * supplier = Reference(Practitioner/example-technician) "Pharmacy Technician"
 * destination = Reference(Location/example-pharmacy) "Hospital Pharmacy"
